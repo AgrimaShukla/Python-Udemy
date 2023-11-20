@@ -1,0 +1,10 @@
+# ABSTRACT CLASS
+- An abstract class can be considered a blueprint for other classes.
+- Allows you to create a set of methods that must be created within any child classes built from the abstract class
+- Main goal is to provide a way to test whether an object adheres to some specification
+- It can also prevent any attempt to instantiate a subclass that doen't override a method in the superclass
+
+
+# ABSTRACT METHOD
+- An abstract method is a method that has a declaration but does not have an implementation
+- By defining an abstract base class, you can define a common API for set of subclasses

@@ -1,0 +1,47 @@
+Databases
+1- sqlite3
+2- psycopg2 - can be used to interact with Postgres Databases
+3- aiopg - asynchronous version of psycopg2
+4- SQLAlchemy - object relational mapping
+
+
+Web development
+- Flask
+- Django
+- aiohttp, Tornado, Sanic, Quart - asynchronous framework
+- Bottle
+
+Communications
+- smtplib
+- Mailgun
+- Twilio
+
+GUI design
+- Kivy - GUI and games
+- Tkinter
+
+Data sciene
+- NumPy
+- SciPy
+- Pandas
+- Matplotlib
+- Tools - Jupyter notebooks
+
+Computer vision
+- Open CV
+- Simple CV
+
+Development Tools
+- Pylint
+- flake8
+- yapf
+- Black
+
+IDEs
+- PyCharm
+- Visual Studio code
+- Atom
+- Sublime Text
+
+
+YAPF - yet another python formatter
